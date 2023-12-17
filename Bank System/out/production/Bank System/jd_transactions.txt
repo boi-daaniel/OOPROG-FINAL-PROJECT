@@ -1,2 +1,0 @@
-[DEPOSIT] - Amount: P123.0
-[WITHDRAWAL] - Amount: P123.0
